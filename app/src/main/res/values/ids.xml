@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="number" type="id" />
+    <item name="textView" type="id" />
+    <item name="button1" type="id" />
+    <item name="eww9" type="id" />
+    <item name="textView2" type="id" />
+    <item name="editText" type="id" />
+    <item name="checkbox" type="id" />
+    <item name="like" type="id" />
+</resources>
